@@ -1,0 +1,31 @@
+User;Hannah;Shiels;gusshieha@student.gu.se;password;
+User;Erdem;Halil;gushaliler@student.gu.se;password;
+User;Taofik;Arnouk;gusarnota@student.gu.se;password;
+User;Anis;Bourbia;gusbourban@student.gu.se;password;
+User;Wanxuan;Hu;gushuwak@student.gu.se;password;
+User;Qianyuan;Wang;gusqianwa@student.gu.se;password;
+Project;Miss Management;Software Management Tool;
+Role;gusshieha@student.gu.se;1;Scrum Master;
+Role;gushaliler@student.gu.se;1;Product Owner;
+Role;gusarnota@student.gu.se;1;Developer;
+Role;gusbourban@student.gu.se;1;Developer;
+Role;gushuwak@student.gu.se;1;Developer;
+Role;gusqianwa@student.gu.se;1;Developer;
+Task;gusshieha@student.gu.se;1;Sprint 1;User Story 1.1 - User Registration;Done;
+Task;gusqianwa@student.gu.se;1;Sprint 1;User Story 1.1 - User Login;Done;
+Task;gusbourban@student.gu.se;1;Sprint 1;User Story 2.1 - Add a project name;Done;
+Task;gushuwak@student.gu.se;1;Sprint 1;Risk Management;Done;
+Task;gushaliler@student.gu.se;1;Sprint 1;Sprint Plan;Done;
+Task;gusqianwa@student.gu.se;1;Sprint 2;User Story 2.3 - Assign project roles;Done;
+Task;gusbourban@student.gu.se;1;Sprint 2;User Story 2.4 - Task;Done;
+Meeting;1;gushaliler@student.gu.se;Zoom - (zoom link);2021;1;8;
+Meeting;1;gusshieha@student.gu.se;Zoom - (zoom link);2021;1;4;
+Meeting;1;gusshieha@student.gu.se;Zoom - (zoom link);2021;1;1;
+Salary;1;gusshieha@student.gu.se;0;122;
+Salary;1;gushaliler@student.gu.se;0;108;
+Salary;1;gusqianwa@student.gu.se;0;78;
+Salary;1;gusbourban@student.gu.se;0;97;
+Salary;1;gushuwak@student.gu.se;0;80;
+Salary;1;gusarnota@student.gu.se;0;93;
+
+
